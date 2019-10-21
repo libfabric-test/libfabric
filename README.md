@@ -5,11 +5,11 @@
 # libfabric
 
 The Open Fabrics Interfaces (OFI) is a framework focused on exporting fabric
-communication services to applications.
+communication services to applications.test2
 
 See [the OFI web site](http://libfabric.org) for more details, including a
 description and overview of the project, and detailed documentation of the
-Libfabric APIs.
+Libfabric APIs.test
 
 ## Installing pre-built Libfabric packages
 
